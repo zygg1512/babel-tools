@@ -1,0 +1,10 @@
+packages/*/dist/
+*.yaml
+tsconfig.json
+package.json
+.vscode
+.husky
+rollup.config.js
+node_modules
+packages/*/node_modules
+packages/*/package.json
